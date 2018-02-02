@@ -1,1 +1,1 @@
-Let's learn git today!!
+Let's learn git today!! It is a good version control system.
